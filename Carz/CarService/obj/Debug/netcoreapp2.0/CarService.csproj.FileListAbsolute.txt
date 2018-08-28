@@ -1,0 +1,11 @@
+C:\SampleProjects\Carz\CarService\bin\Debug\netcoreapp2.0\CarService.deps.json
+C:\SampleProjects\Carz\CarService\bin\Debug\netcoreapp2.0\CarService.runtimeconfig.json
+C:\SampleProjects\Carz\CarService\bin\Debug\netcoreapp2.0\CarService.runtimeconfig.dev.json
+C:\SampleProjects\Carz\CarService\bin\Debug\netcoreapp2.0\CarService.dll
+C:\SampleProjects\Carz\CarService\bin\Debug\netcoreapp2.0\CarService.pdb
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.csprojResolveAssemblyReference.cache
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.csproj.CoreCompileInputs.cache
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.AssemblyInfoInputs.cache
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.AssemblyInfo.cs
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.dll
+C:\SampleProjects\Carz\CarService\obj\Debug\netcoreapp2.0\CarService.pdb

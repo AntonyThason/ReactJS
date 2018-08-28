@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "Ford",
+    "make": "Mustang",
+    "model": "GT",
+    "year": 2015
+  },
+  {
+    "id": 2,
+    "manufacturer": "Chevrolet",
+    "make": "Corvette",
+    "model": "Z",
+    "year": 2017
+  },
+  {
+    "id": 3,
+    "manufacturer": "Dodge",
+    "make": "Challenger",
+    "model": "Hellicot",
+    "year": 2016
+  },
+  {
+    "id": 4,
+    "manufacturer": "Ford",
+    "make": "Icon",
+    "model": "S",
+    "year": 2014
+  }
+]
